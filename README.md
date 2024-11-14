@@ -1,0 +1,1 @@
+# Analisis-Sentimen-Ulasan-Aplikasi-Tokopedia-Menggunakan-Algoritma-Support-Vector-Machine
